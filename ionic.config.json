@@ -1,0 +1,7 @@
+{
+  "name": "drum-better",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
